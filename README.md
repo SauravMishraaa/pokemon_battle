@@ -1,6 +1,6 @@
 # Pokemon Battle Arena
 
-A full-stack web application for creating Pokemon teams and simulating battles between them. Built with Angular 21 (frontend) and Node.js/Express (backend).
+A full-stack web application for creating Pokemon teams and simulating battles between them. Built with Angular 21 (frontend) and Node.js (backend).
 
 ## Quick Start
 

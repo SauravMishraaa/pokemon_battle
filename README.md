@@ -13,10 +13,6 @@ cd backend
 # Install Node dependencies
 npm install
 
-# Create .env file
-# Copy and configure DATABASE_URL for Supabase
-cp .env.example .env
-
 # Start development server
 npm run dev
 

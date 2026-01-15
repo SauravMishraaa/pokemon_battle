@@ -14,7 +14,7 @@ cd backend
 npm install
 
 # Create .env file
-# Copy and configure DATABASE_URL for PostgreSQL
+# Copy and configure DATABASE_URL for Supabase
 cp .env.example .env
 
 # Start development server
@@ -80,14 +80,6 @@ pokemon-battle/
 
 ---
 
-## Prerequisites
-
-- **Node.js 18+** - Runtime environment
-- **npm 9+** - Package manager
-- **PostgreSQL 12+** - Database
-
----
-
 ## Environment Setup
 
 Create a `.env` file in the backend directory:
@@ -139,8 +131,6 @@ PORT=8000
 - **Http Client** - Centralized API service
 - **Responsive Design** - Works on desktop and tablet
 - **Animations** - Floating pokemon, health bars, battle effects
-
----
 
 ---
 
